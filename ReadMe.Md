@@ -1,2 +1,2 @@
-#this app was build  by me when i eat shawerma
+# this app was built from medium site 
 
